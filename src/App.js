@@ -11,7 +11,7 @@ export default function App() {
         <img src={logo} className="App-logo img-fluid" alt="logo"/>
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="travel"/>
       </main>
       <footer className="App-footer">
         <small>Coded by Inês Ferreira</small></footer>
