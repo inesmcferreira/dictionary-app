@@ -5,6 +5,11 @@ body {
 a {
   color: #911f27;
 }
+
+.App {
+  margin: 0 auto;
+  max-width: 960px;
+}
 .App-header {
   margin: 30 px 0;
 }
