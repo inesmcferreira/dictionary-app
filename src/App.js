@@ -29,6 +29,7 @@ export default function App() {
             className="code"
             rel="noopener noreferrer"
           >
+            <br />
             Open-source code
           </a>
         </footer>
