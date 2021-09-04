@@ -24,7 +24,7 @@ export default function App() {
             InêsFerreira
           </a>
           <a
-            href="hhttps://github.com/inesmcferreira/dictionary-app"
+            href="https://github.com/inesmcferreira/dictionary-app"
             target="_blank"
             className="code"
             rel="noopener noreferrer"
