@@ -13,8 +13,8 @@ export default function App() {
           <Dictionary defaultKeyword="travel" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Inês Ferreira</small>
-          <em>This page was built by </em>
+          
+          <em><small>Coded by </small></em>
           <a
             href="https://www.instagram.com/inesferreira/"
             target="_blank"
@@ -22,6 +22,14 @@ export default function App() {
             rel="noopener noreferrer"
           >
             InêsFerreira
+          </a>
+          <a
+            href="hhttps://github.com/inesmcferreira/dictionary-app"
+            target="_blank"
+            className="code"
+            rel="noopener noreferrer"
+          >
+            Open-source code
           </a>
         </footer>
       </div>
